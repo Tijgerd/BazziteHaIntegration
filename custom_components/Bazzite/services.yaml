@@ -1,0 +1,10 @@
+send_command:
+  name: Send Command
+  description: Send a command to Bazzite
+  fields:
+    command:
+      description: Command to send (shutdown or sleep)
+      example: shutdown
+      required: true
+      selector:
+        text:

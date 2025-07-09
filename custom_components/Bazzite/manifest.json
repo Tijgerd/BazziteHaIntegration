@@ -1,0 +1,11 @@
+{
+  "domain": "Bazzite",
+  "name": "Bazzite Integration",
+  "version": "0.1",
+  "documentation": "https://github.com/Tijgerd/BazziteHaIntegration",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@Tijgerd"],
+  "config_flow": true,
+  "issue_tracker": "https://github.com/Tijgerd/BazziteHaIntegration/issues"
+}
